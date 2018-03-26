@@ -5,3 +5,15 @@ form {
 .user-post, .user-review {
   font-weight: bold;
 }
+
+.beer-rate {
+	font-size: 20px;
+    border-radius: 3px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+
+ul li{
+    font-size: 20px;
+}
